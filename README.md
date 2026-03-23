@@ -1,0 +1,11 @@
+<h1>Hi 👋 I'm Mahdis</h1>
+
+- A passionate Software Engineer
+
+- I’m currently working on my master's thesis
+
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,kotlin,java,cs,unity" />
+</p>
