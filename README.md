@@ -1,6 +1,6 @@
 <h1>Hi 👋 I'm Mahdis</h1>
 
-- A passionate Software Engineer
+- A passionate Software & Games Engineer
 
 - I’m currently working on my master's thesis
 
